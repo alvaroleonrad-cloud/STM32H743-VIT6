@@ -4,7 +4,7 @@ Guía paso a paso para configurar y programar el STM32H743 como computadora de v
 
 ## 📋 Secciones
 
-1. [Instalación del Entorno](./docs/01-instalacion.md)
+1. [Instalación del Entorno](docs/01-instalacion.md)
 2. [Configuración Inicial](./docs/02-configuracion-inicial.md)
 3. [Sensores IMU](./docs/03-sensores-imu.md)
 4. [Barómetro](./docs/04-barometro.md)
